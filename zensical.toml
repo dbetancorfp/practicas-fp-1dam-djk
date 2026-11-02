@@ -1,0 +1,13 @@
+[project]
+site_name = "Prácticas FP · 1DAM-DJK"
+site_url = "https://dbetancorfp.github.io/practicas-fp-1dam-djk/"
+docs_dir = "docs"
+site_dir = "site"
+extra_css = ["stylesheets/cuaderno-docente.css"]
+
+[project.theme.palette]
+primary = "custom"
+accent = "custom"
+
+[project.theme]
+language = "es"
