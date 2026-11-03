@@ -52,6 +52,16 @@ header svg, header svg * { color: #fffaf0 !important; stroke: #fffaf0 !important
 .md-typeset h1 + ul > li { list-style: none; padding: 1rem 1.05rem; border: 1px solid #e3d5c0; border-radius: .7rem; background: #fffdf8; box-shadow: 0 3px 9px #5a3e1b0d; }
 .md-typeset h1 + ul > li::before { content: "Actividad"; display: block; margin-bottom: .28rem; color: #9b552f; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
 .md-typeset h1 + ul > li a:last-child { display: inline-block; margin-top: .5rem; padding: .28rem .55rem; border-radius: .35rem; background: #f4e2ca; color: #7e381e; font-size: .82rem; }
+.md-typeset details.abstract { margin: 1rem 0; border: 1px solid #d7a476; border-radius: .7rem; background: #fffdf8; box-shadow: 0 3px 9px #5a3e1b0d; overflow: hidden; }
+.md-typeset details.abstract > summary { padding: .9rem 1rem; background: #244d4d; color: #fffaf0; font-weight: 800; cursor: pointer; }
+.md-typeset details.abstract > summary::after { color: #fffaf0; }
+.md-typeset details.abstract > summary:hover { background: #163636; }
+.md-typeset details.abstract > summary:focus-visible { outline: 3px solid #d7a476; outline-offset: -3px; }
+.md-typeset details.abstract > :not(summary) { margin-left: 1rem; margin-right: 1rem; }
+.md-typeset details.abstract ul { display: grid; gap: .8rem; margin-top: 1rem; margin-bottom: 1rem; padding: 0; }
+.md-typeset details.abstract li { list-style: none; padding: 1rem 1.05rem; border: 1px solid #e3d5c0; border-radius: .55rem; background: #fffdf8; }
+.md-typeset details.abstract li::before { content: "Actividad"; display: block; margin-bottom: .28rem; color: #9b552f; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.md-typeset details.abstract li a:last-child { display: inline-block; margin-top: .5rem; padding: .28rem .55rem; border-radius: .35rem; background: #f4e2ca; color: #7e381e; font-size: .82rem; }
 .md-nav__title { background: #244d4d; color: #fffaf0; }
 .md-nav__title .md-nav__button, .md-nav__title a { color: #fffaf0 !important; }
 @media (prefers-color-scheme: dark) {
@@ -59,6 +69,9 @@ header svg, header svg * { color: #fffaf0 !important; stroke: #fffaf0 !important
   .md-main, body { background: #1a2626; }
   .md-typeset h1, .md-typeset h2 { color: #f5dec1; }
   .md-typeset h1 + ul > li { background: #233332; border-color: #476360; box-shadow: none; }
+  .md-typeset details.abstract { background: #233332; border-color: #476360; box-shadow: none; }
+  .md-typeset details.abstract > summary { background: #163636; }
+  .md-typeset details.abstract li { background: #233332; border-color: #476360; }
   .md-typeset .curricular-table { background: #233332; border-color: #476360; box-shadow: none; }
   .md-typeset .curricular-table th, .md-typeset .curricular-table td { border-bottom-color: #476360; }
   .md-typeset .curricular-table__label { background: #163636; }
