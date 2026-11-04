@@ -38,22 +38,6 @@ Identificar razonadamente departamentos que pueden constituir entornos IT relaci
 
 Lee el caso y completa las tres tareas. No se necesita investigación externa: utiliza la información proporcionada y explica tu razonamiento.
 
-### Índice de origen
-
-| Sección | Página ODT |
-|---|---:|
-| Resultado de aprendizaje, contenido y criterios de evaluación | 1 |
-| Agrupamiento | 2 |
-| Contexto | 2 |
-| Objetivo de la actividad | 2 |
-| Enunciado de la actividad | 2 |
-| Tarea 1 · Reconocer entornos IT | 2 |
-| Tarea 2 · Comparar IT y OT | 3 |
-| Tarea 3 · Seguir el flujo de información | 4 |
-| Material proporcionado | 4 |
-| Entrega | 5 |
-| Rúbrica | 6 |
-
 ### Tarea 1 · Reconocer entornos IT
 
 Indica cuáles de las seis unidades pueden constituir entornos IT.
@@ -71,11 +55,13 @@ Importante: no hay una lista cerrada ni se exige seleccionar exactamente cuatro 
 | Producción | Sí / No |  |
 | Automatización y control | Sí / No |  |
 
-Explica brevemente la diferencia entre el entorno IT y los sistemas OT de automatización y control de planta:
-
-________________________________________________________________________________
-
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Explica brevemente la diferencia entre el entorno IT y los sistemas OT de automatización y control de planta:</br>
+__________________________________________________________________________________________</br>
+__________________________________________________________________________________________</br>
+__________________________________________________________________________________________</br>
+__________________________________________________________________________________________</br>
+__________________________________________________________________________________________</br>
+__________________________________________________________________________________________</br>
 
 ### Tarea 2 · Comparar IT y OT
 
