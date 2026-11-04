@@ -1,6 +1,6 @@
 # UT2-A1 · Ficha comparada de THD
 
-<a class="md-button md-button--primary" href="ut2-a1-sesion-4-ficha-comparada.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
+<a class="md-button md-button--primary" href="ut2-a1-sesion-4-ficha-comparada.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
 
 
 **Fechas:** 23/10, 28/10, 30/10 y 04/11/2026 · **Duración total:** 240 min (4 sesiones de 60) · **Trabajo:** individual

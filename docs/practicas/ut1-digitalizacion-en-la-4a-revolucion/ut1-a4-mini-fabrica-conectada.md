@@ -1,6 +1,6 @@
 # UT1-A4 · Mini fábrica conectada
 
-<a class="md-button md-button--primary" href="ut1-a4-mini-fabrica-conectada.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
+<a class="md-button md-button--primary" href="ut1-a4-mini-fabrica-conectada.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
 
 
 ## 1. Resultado de aprendizaje, contenido y criterios

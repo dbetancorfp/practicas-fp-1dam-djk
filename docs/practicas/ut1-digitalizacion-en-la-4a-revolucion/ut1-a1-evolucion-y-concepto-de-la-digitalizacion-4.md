@@ -1,6 +1,6 @@
 # UT1-A1 · Evolución y Concepto de la Digitalización 4.0
 
-<a class="md-button md-button--primary" href="ut1-a1-evolucion-y-concepto-de-la-digitalizacion-4.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
+<a class="md-button md-button--primary" href="ut1-a1-evolucion-y-concepto-de-la-digitalizacion-4.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
 
 
 ## 1. Resultado de aprendizaje, contenido y criterios de evaluación

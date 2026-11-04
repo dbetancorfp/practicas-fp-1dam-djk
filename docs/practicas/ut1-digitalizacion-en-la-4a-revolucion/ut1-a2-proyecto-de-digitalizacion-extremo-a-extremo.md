@@ -1,6 +1,6 @@
 # UT1-A2 · Proyecto de Digitalización "Extremo a Extremo"
 
-<a class="md-button md-button--primary" href="ut1-a2-proyecto-de-digitalizacion-extremo-a-extremo.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
+<a class="md-button md-button--primary" href="ut1-a2-proyecto-de-digitalizacion-extremo-a-extremo.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
 
 
 ## 1. Resultado de aprendizaje, contenido y criterios de evaluación
