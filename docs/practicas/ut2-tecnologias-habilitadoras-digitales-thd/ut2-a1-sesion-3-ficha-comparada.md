@@ -1,6 +1,6 @@
 # UT2-A1 - Sesión 3 - Ficha comparada de THD
 
-[⬇ Descargar práctica en PDF](ut2-a1-sesion-3-ficha-comparada.pdf){ .md-button .md-button--primary }
+<a class="md-button md-button--primary" href="ut2-a1-sesion-3-ficha-comparada.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
 
 
 ## 1. Resultado de aprendizaje, contenido y criterios

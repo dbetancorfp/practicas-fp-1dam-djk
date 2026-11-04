@@ -1,6 +1,6 @@
 # UT02-A1 – Sesión 2
 
-[⬇ Descargar práctica en PDF](ut2-a1-sesion-2-ficha-comparada.pdf){ .md-button .md-button--primary }
+<a class="md-button md-button--primary" href="ut2-a1-sesion-2-ficha-comparada.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
 
 
 ## Ficha comparada de THD

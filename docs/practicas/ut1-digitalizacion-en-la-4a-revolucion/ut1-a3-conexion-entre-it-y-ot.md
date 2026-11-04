@@ -1,6 +1,6 @@
 # UT1-A3 · Conexión entre IT y OT
 
-[⬇ Descargar práctica en PDF](ut1-a3-conexion-entre-it-y-ot.pdf){ .md-button .md-button--primary }
+<a class="md-button md-button--primary" href="ut1-a3-conexion-entre-it-y-ot.pdf">â¬ Descargar prÃ¡ctica en PDF</a>
 
 
 ## 1. Resultado de aprendizaje, contenido y criterios
