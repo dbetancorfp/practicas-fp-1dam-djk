@@ -2,7 +2,7 @@
 
 <a class="md-button md-button--primary" href="ut2-a1-sesion-2-ficha-comparada.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
 
-hola eoooo
+a
 
 ## Ficha comparada de THD
 
