@@ -10,9 +10,31 @@ admonition = {}
 pymdownx.details = {}
 pymdownx.superfences = {}
 
-[project.theme.palette]
+# Modo automático (sigue la preferencia del sistema)
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
 primary = "custom"
 accent = "custom"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Cambiar a modo claro"
+
+# Modo claro
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Cambiar a modo oscuro"
+
+# Modo oscuro
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Usar preferencia del sistema"
 
 [project.theme]
 language = "es"

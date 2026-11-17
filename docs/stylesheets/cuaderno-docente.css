@@ -55,19 +55,29 @@ header svg, header svg * { color: #fffaf0 !important; stroke: #fffaf0 !important
 .md-typeset details.abstract { background: #e4f0ed; }
 .md-nav__title { background: #244d4d; color: #fffaf0; }
 .md-nav__title .md-nav__button, .md-nav__title a { color: #fffaf0 !important; }
-@media (prefers-color-scheme: dark) {
-  :root > * { --md-default-bg-color: #1a2626; }
-  .md-main, body { background: #1a2626; }
-  .md-typeset h1, .md-typeset h2 { color: #f5dec1; }
-  .md-typeset h1 + ul > li { background: #233332; border-color: #476360; box-shadow: none; }
-  .md-typeset details.abstract { background: #233332; border-color: #476360; box-shadow: none; }
-  .md-typeset details.abstract > summary { background: #163636; }
-  .md-typeset details.abstract li { background: #233332; border-color: #476360; }
-  .md-typeset .curricular-table { background: #233332; border-color: #476360; box-shadow: none; }
-  .md-typeset .curricular-table th, .md-typeset .curricular-table td { border-bottom-color: #476360; }
-  .md-typeset .curricular-table__label { background: #163636; }
-  .md-typeset .curricular-table__content { color: #f5eee1; }
+/* Modo oscuro: ligado al selector de paleta de Zensical (scheme = "slate"). */
+:root > [data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1a2626;
+  --md-code-bg-color: #233332;
+  --md-accent-fg-color: #e39a6f;
+  --md-accent-fg-color--transparent: #e39a6f1c;
 }
+body[data-md-color-scheme="slate"], [data-md-color-scheme="slate"] .md-main { background: #1a2626; }
+[data-md-color-scheme="slate"] .md-typeset h1, [data-md-color-scheme="slate"] .md-typeset h2 { color: #f5dec1; }
+[data-md-color-scheme="slate"] .md-typeset a { color: #f0b48a; }
+[data-md-color-scheme="slate"] .md-typeset a:hover { color: #f5dec1; }
+[data-md-color-scheme="slate"] .md-typeset .md-button { border-color: #e39a6f; color: #f0b48a; }
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary { background: #a9522c; border-color: #a9522c; color: #fffaf0; }
+[data-md-color-scheme="slate"] .md-typeset h1 + ul > li { background: #233332; border-color: #476360; box-shadow: none; }
+[data-md-color-scheme="slate"] .md-typeset h1 + ul > li::before { color: #e39a6f; }
+[data-md-color-scheme="slate"] .md-typeset h1 + ul > li a:last-child { background: #3a2a20; color: #f5dec1; }
+[data-md-color-scheme="slate"] .md-typeset details.abstract { background: #233332; border-color: #476360; box-shadow: none; }
+[data-md-color-scheme="slate"] .md-typeset details.abstract > summary { background: #163636; }
+[data-md-color-scheme="slate"] .md-typeset details.abstract li { background: #233332; border-color: #476360; }
+[data-md-color-scheme="slate"] .md-typeset .curricular-table { background: #233332; border-color: #476360; box-shadow: none; }
+[data-md-color-scheme="slate"] .md-typeset .curricular-table th, [data-md-color-scheme="slate"] .md-typeset .curricular-table td { border-bottom-color: #476360; }
+[data-md-color-scheme="slate"] .md-typeset .curricular-table__label { background: #163636; }
+[data-md-color-scheme="slate"] .md-typeset .curricular-table__content { color: #f5eee1; }
 @media screen and (max-width: 44.9375em) {
   .md-typeset .curricular-table, .md-typeset .curricular-table tbody, .md-typeset .curricular-table tr, .md-typeset .curricular-table th, .md-typeset .curricular-table td { display: block; width: 100%; }
   .md-typeset .curricular-table tr { border-bottom: 1px solid #e3d5c0; }
